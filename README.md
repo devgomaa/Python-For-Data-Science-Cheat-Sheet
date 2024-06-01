@@ -1,4 +1,3 @@
-
 ### Python-For-Data-Science-Cheat-Sheet
 
 This repository is designed to be a comprehensive guide for anyone looking to master Python for data science. It covers foundational concepts, advanced programming techniques, and essential data analysis skills using Python. Below is a detailed breakdown of the course content included in this cheat sheet.
